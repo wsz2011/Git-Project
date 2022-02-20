@@ -7,6 +7,7 @@ public class demo1 {
         System.out.println("Idea 2020.3 Git:first test commit3 ");
         System.out.println("Idea 2020.3 Git:first test commit4 ");
         System.out.println("Idea 2020.3 Git:first test commit5 ");
+        System.out.println("Idea 2020.3 Git:test push");
 
 
 
